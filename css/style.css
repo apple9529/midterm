@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+body {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+
+.오늘의기분은 {
+        font-size: 90px; 
+        color: #5d91cd;
+        position: absolute;
+        left: 31%;
+        top: 10%;
+}
+
+
+.대개봉 {
+        font-size: 25px; 
+        color: white;
+        position: absolute;
+        left: 44%;
+        top: 2%;
+}
+
+
+.background {
+    width: 100%;
+    height: 100%;
+    position:fixed;
+
+}
+
+.colored-background1 {
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    background-color: #723183;
+}
+
+.colored-background2 {
+    right: 60%;
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    background-color: #8b2320;
+}
+
+.colored-background3 {
+    right:40%;
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    background-color: #f09d13;
+}
+
+.colored-background4 {
+    right:20%;
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    background-color: #164a23;
+}
+
+.colored-background5 {
+    right:0%;
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    background-color: #303e89;
+}
+
+
+
+
+
+
+
+.fear {
+    right: 88%; 
+    bottom:-1%; 
+    width: 18%; 
+    height: 49%; 
+    position: absolute;
+}
+
+.anger {
+    right: 60.5%; 
+    bottom:-1%; 
+    width: 19%; 
+    height: 34%; 
+    position: absolute;
+}
+
+.joy {
+    right: 39%; 
+    bottom:-2%; 
+    width: 19%; 
+    height: 59%; 
+    position: absolute;
+}
+
+.disgust {
+    right: 20%; 
+    bottom:0%; 
+    width: 17%; 
+    height: 43%; 
+    position: absolute;
+}
+
+.sadness {
+    right: 2%; 
+    bottom: 0%; 
+    width: 17%; 
+    height: 40%; 
+    position: absolute;
+}
+
+
+
+
+
+
+
+.sosim {
+    font-size: 25px; font-family: 'Do Hyeon', sans-serif; color: white; position: absolute;text-shadow: 0 0 2vw white; left: 8%; top: 28%;
+}
+
+.burrurk {
+    font-size: 25px; font-family: 'Do Hyeon', sans-serif; color: white; position: absolute;text-shadow: 0 0 2vw white; left: 28%; top: 28%;
+}
+
+.gibbumm {
+    font-size: 25px; font-family: 'Do Hyeon', sans-serif; color: white; position: absolute;text-shadow: 0 0 2vw white; left: 48%; top: 28%;
+}
+
+.kkachill {
+    font-size: 25px; font-family: 'Do Hyeon', sans-serif; color: white; position: absolute;text-shadow: 0 0 2vw white; left: 68%; top: 28%;
+}
+
+.sullpum {
+    font-size: 25px; font-family: 'Do Hyeon', sans-serif; color: white; position: absolute; text-shadow: 0 0 2vw white; left: 88%; top: 28%;
+}
+
+
+
+
+.앉으나서나걱정이군 {
+        font-size: 70px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 27%;
+        top: 50%;
+        font-family: 'Do Hyeon', 
+        sans-serif; 
+        color: white; 
+        position: absolute;
+        text-shadow: 0 0 2vw white;
+}
+
+.화가난다화가나 {
+        font-size: 70px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 27%;
+        top: 50%;
+        font-family: 'Do Hyeon', 
+        sans-serif; 
+        color: white; 
+        position: absolute;
+        text-shadow: 0 0 2vw white;
+}
+
+.모든게다 {
+        font-size: 70px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 16%;
+        top: 50%;
+        font-family: 'Do Hyeon', 
+        sans-serif; 
+        color: white; 
+        position: absolute;
+        text-shadow: 0 0 2vw white;
+}
+
+.잘될거야 {
+        font-size: 70px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 63%;
+        top: 50%;
+        font-family: 'Do Hyeon', 
+        sans-serif; 
+        color: white; 
+        position: absolute;
+        text-shadow: 0 0 2vw white;
+}
+
+.어쩌라고 {
+        font-size: 70px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 22%;
+        top: 50%;
+        font-family: 'Do Hyeon', 
+        sans-serif; 
+        color: white; 
+        position: absolute;
+        text-shadow: 0 0 2vw white;
+}
+
+.세상은너무슬퍼 {
+        font-size: 70px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 20%;
+        top: 50%;
+        font-family: 'Do Hyeon', 
+        sans-serif; 
+        color: white; 
+        position: absolute;
+        text-shadow: 0 0 2vw white;
+}
+
+.소심이설명 {
+        font-size: 25px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 27%;
+        top: 70%;
+        font-family: 'Do Hyeon', 
+        sans-serif; 
+        position: absolute;
+        }
+
+.버럭이설명 {
+        font-size: 25px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 41%;
+        top: 70%;
+        font-family: 'Do Hyeon', 
+        sans-serif;  
+        position: absolute;
+        }
+.기쁨이설명 {
+        font-size: 25px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 14%;
+        top: 70%;
+        font-family: 'Do Hyeon', 
+        sans-serif;  
+        position: absolute;
+        }
+.까칠이설명 {
+        font-size: 25px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 23%;
+        top: 70%;
+        font-family: 'Do Hyeon', 
+        sans-serif; 
+        position: absolute;
+        }
+.슬픔이설명 {
+        font-size: 25px; 
+        opacity: 0;
+        color: #5d91cd;
+        position: absolute;
+        left: 22%;
+        top: 70%;
+        font-family: 'Do Hyeon', 
+        sans-serif;  
+        position: absolute;
+        }
